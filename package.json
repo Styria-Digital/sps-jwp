@@ -1,0 +1,9 @@
+{
+    "name": "sps-jwp",
+    "version": "1.0.0",
+    "description": "jwp for sps",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Styria-Digital/sps-jwp"
+    }
+  }
